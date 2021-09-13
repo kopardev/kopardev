@@ -1,6 +1,6 @@
-***Hi All!!***
+[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopardev&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopardev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopardev&langs_count=4&hide=perl&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### List of recent scientific contributions:
 
