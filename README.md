@@ -8,7 +8,7 @@
 
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| Divergent transcription from lentiviral gene editing of cancer cells | Science Translational Medicine (submitted) | 2021 | Coming shortly |
+| Divergent transcription from lentiviral gene editing of cancer cells | Science Translational Medicine (submitted) | 2021 | [https://doi.org/10.1016/j.omtn.2022.05.029](https://doi.org/10.1016/j.omtn.2022.05.029) |
 | Unique roles of vaginal Megasphaera phylotypes in reproductive health | Microbial Genomics                                    | 2021 | [https://doi.org/10.1099/mgen.0.000526](https://doi.org/10.1099/mgen.0.000526) |
 | PERK signaling through C/EBPδ contributes to ER stress-induced expression of immunomodulatory and tumor promoting chemokines by cancer cells | Cell Death & Disease                                    | 2021 | [https://doi.org/10.1038/s41419-021-04318-y](https://doi.org/10.1038/s41419-021-04318-y) |
 | Ubiquitination of MHC Class II by March-I Regulates Dendritic Cell Fitness | The Journal of Immunology                                    | 2021 | [https://doi.org/10.4049/jimmunol.2000975](https://doi.org/10.4049/jimmunol.2000975) |
