@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopardev&langs_count=4&hide=perl&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=SmiD5RkAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
+
 ### List of recent scientific contributions:
 
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
