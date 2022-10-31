@@ -10,8 +10,8 @@
 
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| Loss of tumor suppressors promotes a non-cell-autonomous inflammatory response and enhances LAG3+T cell mediated immune suppression | _Submitted to Science Translational Medicine_ | 2022 | TBD |
-| Transcriptional analysis identifies overlapping and tissue-distinct profiles between Kaposi sarcoma tumors of the skin and gastrointestinal tract | _TBD_ | 2022 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.18.484923v1) |
+| Loss of tumor suppressors promotes a non-cell-autonomous inflammatory response and enhances LAG3+T cell mediated immune suppression | _TBD_ | 2022 | TBD |
+| Transcriptional analysis identifies overlapping and tissue-distinct profiles between Kaposi sarcoma tumors of the skin and gastrointestinal tract | _Submitted to Science Translational Medicine_ | 2022 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.18.484923v1) |
 | A virus-induced circular RNA maintains latent infection of Kaposi’s sarcoma herpesvirus | _Submitted to PNAS_ | 2022 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.18.500467v1) |
 | Alternative splicing and circRNA biogenesis driven by alpha and gamma herpesviruses | _Submitted to Nature Communications_ | 2022 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.08.499347v1) |
 | Divergent transcription from lentiviral gene editing of cancer cells | Molecular Therapy Nucleic Acids | 2022 | [https://doi.org/10.1016/j.omtn.2022.05.029](https://doi.org/10.1016/j.omtn.2022.05.029) |
