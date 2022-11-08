@@ -1,1 +1,12 @@
 ~$citations.xlsx
+**/.koparde*
+!.editorconfig
+!.gitignore
+!.gitattributes
+site/
+**/*.swp
+**/test.*
+*DS_Store
+*RData
+*Rhistory
+.*RMD
