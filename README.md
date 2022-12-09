@@ -10,6 +10,7 @@
 
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| Transcriptional landscape of Kaposi sarcoma tumors identifies unique immunologic signatures and key determinants of angiogenesis | _Under Review at Nature Comm._ | 2022 |TBD|
 | Loss of tumor suppressors promotes a non-cell-autonomous inflammatory response and enhances LAG3+T cell mediated immune suppression | _TBD_ | 2022 | TBD |
 | Transcriptional analysis identifies overlapping and tissue-distinct profiles between Kaposi sarcoma tumors of the skin and gastrointestinal tract | _Submitted to Science Translational Medicine_ | 2022 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.18.484923v1) |
 | A virus-induced circular RNA maintains latent infection of Kaposi’s sarcoma herpesvirus | _Submitted to PNAS_ | 2022 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.18.500467v1) |
