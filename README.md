@@ -1,5 +1,7 @@
 ![Profile views in 2022](https://komarev.com/ghpvc/?username=kopardev)
 
+## Life is so short, but DNA is so long ...
+
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopardev&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopardev&langs_count=4&hide=perl&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
