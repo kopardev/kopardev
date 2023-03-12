@@ -2,6 +2,8 @@
 
 ## Life is so short, but DNA is so long ...
 
+Welcome! My name is Vishal Koparde ( _pronouced as We-shall Co-Par-Day_ ).
+
 I actively contribute code to numerous repos:
 
  * [CCR Collaborative Bioinformatics Resource](https://github.com/CCBR)
