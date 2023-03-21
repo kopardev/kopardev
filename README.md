@@ -18,6 +18,8 @@ I actively contribute code to numerous repos:
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=SmiD5RkAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
 
+[PubMed Summary](https://pubmed.ncbi.nlm.nih.gov/?term=Koparde%2C+Vishal%5BAuthor%5D&sort=date)
+
 ### List of recent scientific contributions:
 
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
