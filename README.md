@@ -10,7 +10,9 @@ I actively contribute code to numerous repos:
  * [RNA Biology Lab](https://github.com/RBL-NCI)
  * [CCR Genetics Branch](https://github.com/CCRGeneticsBranch/)
  * [NCI Pangea](https://github.com/NCIPangea)
+ * [NIDAP](https://github.com/NIDAP-Community)
  * [Vaccine Branch](https://github.com/NCI-VB)
+ * [abcsFrederick](https://github.com/abcsFrederick)
 
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopardev&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
