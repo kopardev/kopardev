@@ -31,7 +31,8 @@ I actively contribute code to numerous repos:
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | Chromatin accessibility landscape of human triple-negative breast cancer cell lines reveals variation by patient donor ancestry | _Submitted to Cancer Research Communications_ | 2023 | TBD |
-| The transcription factor EGR2 controls homing and pathogenicity of TH17 cells in the central nervous system | _Submitted to Nature Immunology_ | 2023 | TBD |
+| SMYD3 represses tumor-intrinsic interferon response in HPV-negative squamous cell carcinoma of the head and neck | Cell Reports | 2023 | [https://doi.org/10.1016/j.celrep.2023.112823](https://doi.org/10.1016/j.celrep.2023.112823) |
+| The transcription factor EGR2 controls homing and pathogenicity of TH17 cells in the central nervous system | Nature Immunology | 2023 | [https://doi.org/10.1038/s41590-023-01553-7](https://doi.org/10.1038/s41590-023-01553-7) |
 | Transcriptional landscape of Kaposi sarcoma tumors identifies unique immunologic signatures and key determinants of angiogenesis | _Submitted to Journal of Translational Medicine_ | 2023 |TBD|
 | Loss of tumor suppressors promotes a non-cell-autonomous inflammatory response and enhances LAG3+T cell mediated immune suppression | _Submitted to Cell Comms._ | 2022 | TBD |
 | A virus-induced circular RNA maintains latent infection of Kaposi’s sarcoma herpesvirus | PNAS | 2023 | [https://doi.org/10.1073/pnas.2212864120](https://doi.org/10.1073/pnas.2212864120) |
