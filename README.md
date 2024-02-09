@@ -30,6 +30,7 @@ I actively contribute code to numerous repos:
 
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| DNAJC9 prevents CENP-A mislocalization and chromosomal instability by maintaining the fidelity of histone supply chains | _submitted to EMBOJ_ | 2024 | TBD |
 | Interferon induced circRNAs escape herpesvirus host shutoff and suppress lytic infection | EMBO Rep. | 2024 | [https://doi.org/10.1038/s44319-023-00051-z](https://doi.org/10.1038/s44319-023-00051-z)
 | Chromatin accessibility landscape of human triple-negative breast cancer cell lines reveals variation by patient donor ancestry | Cancer Research Communications | 2023 | [https://doi.org/10.1158/2767-9764.CRC-23-0236](https://doi.org/10.1158/2767-9764.CRC-23-0236) |
 | SMYD3 represses tumor-intrinsic interferon response in HPV-negative squamous cell carcinoma of the head and neck | Cell Reports | 2023 | [https://doi.org/10.1016/j.celrep.2023.112823](https://doi.org/10.1016/j.celrep.2023.112823) |
