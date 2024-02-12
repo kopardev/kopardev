@@ -30,13 +30,13 @@ I actively contribute code to numerous repos:
 
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| DNAJC9 prevents CENP-A mislocalization and chromosomal instability by maintaining the fidelity of histone supply chains | _submitted to EMBOJ_ | 2024 | TBD |
+| Loss of tumor suppressors promotes a non-cell-autonomous inflammatory response and enhances LAG3+T cell mediated immune suppression | _Accepted at Nat. Comms._ | 2024 | TBD |
+| DNAJC9 prevents CENP-A mislocalization and chromosomal instability by maintaining the fidelity of histone supply chains | _Submitted to EMBOJ_ | 2024 | TBD |
 | Interferon induced circRNAs escape herpesvirus host shutoff and suppress lytic infection | EMBO Rep. | 2024 | [https://doi.org/10.1038/s44319-023-00051-z](https://doi.org/10.1038/s44319-023-00051-z)
 | Chromatin accessibility landscape of human triple-negative breast cancer cell lines reveals variation by patient donor ancestry | Cancer Research Communications | 2023 | [https://doi.org/10.1158/2767-9764.CRC-23-0236](https://doi.org/10.1158/2767-9764.CRC-23-0236) |
 | SMYD3 represses tumor-intrinsic interferon response in HPV-negative squamous cell carcinoma of the head and neck | Cell Reports | 2023 | [https://doi.org/10.1016/j.celrep.2023.112823](https://doi.org/10.1016/j.celrep.2023.112823) |
 | The transcription factor EGR2 controls homing and pathogenicity of TH17 cells in the central nervous system | Nature Immunology | 2023 | [https://doi.org/10.1038/s41590-023-01553-7](https://doi.org/10.1038/s41590-023-01553-7) |
 | Transcriptional landscape of Kaposi sarcoma tumors identifies unique immunologic signatures and key determinants of angiogenesis | Journal of Translational Medicine | 2023 | [https://doi.org/10.1186/s12967-023-04517-5](https://doi.org/10.1186/s12967-023-04517-5) |
-| Loss of tumor suppressors promotes a non-cell-autonomous inflammatory response and enhances LAG3+T cell mediated immune suppression | _Submitted to Cell Comms._ | 2022 | TBD |
 | A virus-induced circular RNA maintains latent infection of Kaposi’s sarcoma herpesvirus | PNAS | 2023 | [https://doi.org/10.1073/pnas.2212864120](https://doi.org/10.1073/pnas.2212864120) |
 | Alternative splicing and circRNA biogenesis driven by alpha and gamma herpesviruses | _Submitted to Nature Communications_ | 2022 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.08.499347v1) |
 | Antisense transcription from lentiviral gene targeting linked to an integrated stress response in colorectal cancer cells | Molecular Therapy | 2022 | [https://doi.org/10.1016/j.omtn.2022.05.029](https://doi.org/10.1016/j.omtn.2022.05.029) |
