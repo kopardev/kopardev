@@ -30,6 +30,7 @@ I actively contribute code to numerous repos:
 
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| Noncanonical circRNA biogenesis driven by alpha and gamma herpesviruses | EMBOJ | 2025 | [https://doi.org/10.1038/s44318-025-00398-0](https://doi.org/10.1038/s44318-025-00398-0) |
 | Loss of tumor suppressors promotes a non-cell-autonomous inflammatory response and enhances LAG3+T cell mediated immune suppression | Nat. Comms. | 2024 | [https://doi.org/10.1038/s41467-024-50262-8](https://doi.org/10.1038/s41467-024-50262-8) |
 | Transfer RNA acetylation regulates in vivo mammalian stress signaling | TBD | 2024 | [bioRxiv](https://doi.org/10.1101/2024.07.25.605208) |
 | DNAJC9 prevents CENP-A mislocalization and chromosomal instability by maintaining the fidelity of histone supply chains | EMBOJ | 2024 | [https://doi.org/10.1038/s44318-024-00093-6](https://doi.org/10.1038/s44318-024-00093-6) |
@@ -39,7 +40,6 @@ I actively contribute code to numerous repos:
 | The transcription factor EGR2 controls homing and pathogenicity of TH17 cells in the central nervous system | Nature Immunology | 2023 | [https://doi.org/10.1038/s41590-023-01553-7](https://doi.org/10.1038/s41590-023-01553-7) |
 | Transcriptional landscape of Kaposi sarcoma tumors identifies unique immunologic signatures and key determinants of angiogenesis | Journal of Translational Medicine | 2023 | [https://doi.org/10.1186/s12967-023-04517-5](https://doi.org/10.1186/s12967-023-04517-5) |
 | A virus-induced circular RNA maintains latent infection of Kaposi’s sarcoma herpesvirus | PNAS | 2023 | [https://doi.org/10.1073/pnas.2212864120](https://doi.org/10.1073/pnas.2212864120) |
-| Alternative splicing and circRNA biogenesis driven by alpha and gamma herpesviruses | _Submitted to Nature Communications_ | 2022 | [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.08.499347v1) |
 | Antisense transcription from lentiviral gene targeting linked to an integrated stress response in colorectal cancer cells | Molecular Therapy | 2022 | [https://doi.org/10.1016/j.omtn.2022.05.029](https://doi.org/10.1016/j.omtn.2022.05.029) |
 | Unique roles of vaginal Megasphaera phylotypes in reproductive health | Microbial Genomics                                    | 2021 | [https://doi.org/10.1099/mgen.0.000526](https://doi.org/10.1099/mgen.0.000526) |
 | PERK signaling through C/EBPδ contributes to ER stress-induced expression of immunomodulatory and tumor promoting chemokines by cancer cells | Cell Death & Disease                                    | 2021 | [https://doi.org/10.1038/s41419-021-04318-y](https://doi.org/10.1038/s41419-021-04318-y) |
