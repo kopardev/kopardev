@@ -31,7 +31,7 @@ I actively contribute code to numerous repos:
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | Expression of IMPACT curtails metabolic plasticity and augments NK cell killing to abrogate metastatic growth | _Cancer Discovery_ | _Accepted_ | TBD |
-| Chromatin Accessibility Profiling Reveals a Stem-Like Subtype of Small Cell Lung Cancer with Poor Prognosis and Resistance to Chemoimmunotherapy | _Cancer Discovery_ | _Submitted_ | TBD |
+| Chromatin Accessibility Profiling Reveals a Stem-Like Subtype of Small Cell Lung Cancer with Poor Prognosis and Resistance to Chemoimmunotherapy | _Cancer Discovery_ | _Accepted_ | TBD |
 | Transfer RNA acetylation regulates in vivo mammalian stress signaling | Science Advances | 2025 | [https://doi.org/10.1126/sciadv.ads2923](https://doi.org/10.1126/sciadv.ads2923) |
 | Noncanonical circRNA biogenesis driven by alpha and gamma herpesviruses | EMBOJ | 2025 | [https://doi.org/10.1038/s44318-025-00398-0](https://doi.org/10.1038/s44318-025-00398-0) |
 | Loss of tumor suppressors promotes a non-cell-autonomous inflammatory response and enhances LAG3+T cell mediated immune suppression | Nat. Comms. | 2024 | [https://doi.org/10.1038/s41467-024-50262-8](https://doi.org/10.1038/s41467-024-50262-8) |
