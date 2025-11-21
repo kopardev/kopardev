@@ -30,6 +30,7 @@ I actively contribute code to numerous repos:
 
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| Immune Niche Formation Reveals Mechanisms of Tumor Dormancy and Targeting Opportunities | _Nature Cancer_ | _Accepted_ | TBD |
 | Tumor-Intrinsic Epigenetic States Uncover a Stem-Like SCLC Predictive of Chemoimmunotherapy Failure | _Journal of Clinical Oncology_ | _Submitted_ | TBD |
 | Expression of IMPACT curtails metabolic plasticity and augments NK cell killing to abrogate metastatic growth | _Cancer Discovery_ | 2025 | [https://doi.org/10.1158/2159-8290.CD-24-1055](https://doi.org/10.1158/2159-8290.CD-24-1055) |
 | Chromatin Accessibility Profiling Reveals a Stem-Like Subtype of Small Cell Lung Cancer with Poor Prognosis and Resistance to Chemoimmunotherapy | _Cancer Discovery_ | _Accepted_ | TBD |
