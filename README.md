@@ -31,7 +31,7 @@ I actively contribute code to numerous repos:
 | Title                                                        | Publication                                                  | Year | DOI                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | A stem-like chromatin program in small-cell lung cancer is associated with poor outcomes after chemoimmunotherapy | _Cell Reports Medicine_ | 2026 | [https://doi.org/10.1016/j.xcrm.2026.103027](https://doi.org/10.1016/j.xcrm.2026.103027) |
-| Tumor-Intrinsic Epigenetic States Uncover a Stem-Like SCLC Predictive of Chemoimmunotherapy Failure | _Journal of Clinical Oncology_ | _Submitted_ | TBD |
+| Tumor-Intrinsic Epigenetic States Uncover a Stem-Like SCLC Predictive of Chemoimmunotherapy Failure | _Journal of Thoracic Oncology_ | 2026 | [https://doi.org/10.1016/j.jtho.2026.103996](https://doi.org/10.1016/j.jtho.2026.103996) |
 | Chromatin Accessibility Profiling Reveals a Stem-Like Subtype of Small Cell Lung Cancer with Poor Prognosis and Resistance to Chemoimmunotherapy | _Cancer Discovery_ | _Accepted_ | TBD |
 | Sp Transcription Factors Establish the Signaling Environment in the Neuromesodermal Progenitor Niche During Axial Elongation | _eLife_ | _Accepted_ | [https://doi.org/10.1101/2025.06.03.657492](https://doi.org/10.1101/2025.06.03.657492) |
 | Immune Niche Formation Reveals Mechanisms of Tumor Dormancy and Targeting Opportunities | _Nature Cancer_ | 2026 (preprint) | [https://doi.org/10.21203/rs.3.rs-8167536/v1](https://doi.org/10.21203/rs.3.rs-8167536/v1) |
